@@ -1,0 +1,18 @@
+.darklight-btn{
+    border:2px solid crimson;
+    display:flex;
+    margin-left:10px;
+    align-items: center;
+    justify-content:space-between;
+    cursor: pointer;
+    padding: 2px 4px;
+    border-radius:1rem;
+    position: relative;
+    width:55px;
+}
+.toggle-btn{
+    border-radius: 50%;
+    background-color:crimson;
+    position: absolute;
+    left:27px;
+}
