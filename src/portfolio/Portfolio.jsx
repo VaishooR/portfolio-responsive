@@ -47,7 +47,8 @@ return (
               <a href="https://github.com/VaishooR/portfolio-YoutubeClone-responsive" target="_blank">< AiOutlineGithub style={{fontSize:'30px'}} className='ai-icon'/></a>
               {/* <a href="https://www.linkedin.com/posts/vaishnavi-r-bb1177159_react-namastereact-youtubeclone-activity-7060699674424324096-VSEP?utm_source=share&utm_medium=member_desktop" target="_blank"><AiFillLinkedin style={{fontSize:'30px'}} className='ai-icon'/></a> */}
               {/* <a href="https://youtube-clone-vaishoo.netlify.app/" target="_blank"><CgWebsite style={{fontSize:'30px'}} className='web-icon' /></a> */}
-              <a href="https://youtube-clone-vaishoo.netlify.app/" target="_blank"><RiLiveLine style={{fontSize:'30px'}} className='web-icon' /></a>
+              <a href="https://youtubeclone-vaishoo.netlify.app/" target="_blank"><RiLiveLine style={{fontSize:'30px'}} className='web-icon' /></a>
+              {/* https://youtubeclone-vaishoo.netlify.app/ */}
 
           </div>
           {/* <div className="sourcecode-icons">
