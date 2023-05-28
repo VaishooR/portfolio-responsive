@@ -31,7 +31,8 @@
         padding:10px 0px;
         margin: 0px 40px;
         border-radius: 5px;
-    }   
+    }  
+    
 }
 
 
@@ -46,6 +47,13 @@
 .homepage-content-left div{
     font-size:3rem;
     height:70px;
+}
+@media(max-width:450px){
+
+    .homepage-content-left{
+        width: 90%;
+        align-items: flex-start;
+    } 
 }
 .vaishnavi{
     color:crimson !important;

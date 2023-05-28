@@ -131,6 +131,7 @@
 }
 .ai-icon:hover{
     fill:crimson;
+    color: crimson;
     transform: scale(0.92);
 }
 .sourcecode-icons i{
