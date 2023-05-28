@@ -9,7 +9,7 @@ const Footerr = () => {
   const darkMode=theme.state.darkMode;
 
   return (
-    <div className="footer" style={{ background: darkMode ? 'black':''}}>
+    <div className="footer" style={{ background: darkMode ? 'rgb(26,26,26)':''}}>
       <p style={{color:darkMode ? 'white':''}}>&#169; Designed & built by Vaishnavi,2023 </p>
     </div>
   )

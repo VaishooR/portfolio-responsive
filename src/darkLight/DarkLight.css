@@ -1,11 +1,12 @@
 .darklight-btn{
-    border:2px solid crimson;
+    border:1px solid crimson;
+    /* border:1px solid #242d49; */
     display:flex;
     margin-left:10px;
     align-items: center;
     justify-content:space-between;
     cursor: pointer;
-    padding: 2px 4px;
+    padding: 2px 6px;
     border-radius:1rem;
     position: relative;
     width:55px;
@@ -15,4 +16,5 @@
     background-color:crimson;
     position: absolute;
     left:27px;
+    color:rgb(26, 26, 26);
 }

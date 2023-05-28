@@ -18,7 +18,7 @@ const Homepage = () => {
   },[])
 
   return (
-    <div className="homepage" id="home" style={{ background: darkMode ? 'black':''}}>
+    <div className="homepage" id="home" style={{ background: darkMode ? 'rgb(23, 23, 23)':''}}>
         <div className="homepage-content">
             <div className="homepage-content-left">
                 <div style={{color:darkMode ? 'white':''}}>Hy! I Am</div>

@@ -28,15 +28,15 @@ const Contact = () => {
           console.log(error.text);
       });
   };
-
+  // #1a202c
   return (
-    <div className="contact-comp" style={{ background: darkMode ? 'black':''}}>
+    <div className="contact-comp" style={{ background: darkMode ? 'rgb(36,36,36)':''}}> 
       <h2 style={{color:darkMode ? 'white':''}}>Contact <span>De</span>tails</h2>
     <div className="contact" id="contact">
       
       <div className='contact-content'>
         <div className='mini-icons'>
-          <div style={{backgroundColor: '#242d49'}} title="Github"><a href="https://github.com/VaishooR" target="_blank"><AiOutlineGithub className='side-btn'/></a></div>
+          <div style={{backgroundColor: 'black'}} title="Github"><a href="https://github.com/VaishooR" target="_blank"><AiOutlineGithub className='side-btn'/></a></div>
           <div style={{backgroundColor: 'blue'}} title="LinkedIn"><a href="https://www.linkedin.com/in/vaishnavi-r-bb1177159/" target="_blank"><AiFillLinkedin className='side-btn'/></a></div>
           <div style={{backgroundColor: 'crimson'}} title="G-mail"><a href="https://www.linkedin.com/in/vaishnavi-r-bb1177159/overlay/contact-info/" target="_blank"><AiOutlineMail className='side-btn'/></a></div>
 

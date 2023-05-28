@@ -9,7 +9,7 @@ const Skills = () => {
   const darkMode=theme.state.darkMode;
 
   return (
-    <div className="skills" id="skills" style={{ background: darkMode ? 'black':''}}>
+    <div className="skills" id="skills" style={{ background: darkMode ? 'rgb(23, 23, 23)':''}}>
       <h2 style={{color:darkMode ? 'white':''}}>My <span>Technical</span> Skills</h2>
       <div className="skill-icons">
         <div className="each-icon" style={{ background: darkMode ? 'black':'',border:darkMode ? '1px solid grey':''}}>
