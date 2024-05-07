@@ -66,7 +66,7 @@ return (
               <a href="https://www.linkedin.com/posts/vaishnavi-r-bb1177159_reactredux-namastereact-swiggyclone-activity-7062135199525974017-65hY?utm_source=share&utm_medium=member_desktop" target="_blank">< AiOutlineGithub style={{fontSize:'30px'}} className='ai-icon'/></a>
               {/* <a href="https://www.linkedin.com/posts/vaishnavi-r-bb1177159_reactredux-namastereact-swiggyclone-activity-7062135199525974017-65hY?utm_source=share&utm_medium=member_desktop" target="_blank"><AiFillLinkedin style={{fontSize:'30px'}} className='ai-icon'/></a> */}
               {/* <a href="https://swiggy-clone-vaishoo.netlify.app/" target="_blank"><CgWebsite style={{fontSize:'30px'}} className='web-icon' /></a> */}
-              <a href="https://swiggy-clone-vaishoo.netlify.app/" target="_blank"><RiLiveLine style={{fontSize:'30px'}} className='ai-icon' /></a>
+              <a href="https://swiggyclone2-vaishoo.netlify.app/" target="_blank"><RiLiveLine style={{fontSize:'30px'}} className='ai-icon' /></a>
 
               
           </div>
