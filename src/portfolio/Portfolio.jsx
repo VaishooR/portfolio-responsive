@@ -58,7 +58,7 @@ return (
         </div>
         
         <div className="card" style={{border:darkMode ? '1px solid grey':''}}>
-          <img src="assets/projects/swiggy3.png" alt="" />
+          <img src="assets/projects/swiggy2024.png" alt="" />
           <h3 style={{color:darkMode ? 'white':''}}>Swiggy Clone</h3>
           <p>React & Redux</p>
           <p style={{color:'grey',textAlign:'center',fontSize:'14px'}} className='proj-description'>To further develop my skills in React and state management, I created a Swiggy clone website with functionalities such as adding to cart, removing from cart, clearing the cart, changing the quantity of products added to cart, and displaying the total price at checkout. I used Redux for state management, learning about the store, slice, dispatching actions, and using hooks such as useReducer, useContext, and useSelector.It also includes the search functionality.Through Redux, I was able to manage the state of the cart and display the total price at checkout.The site is responsive and optimized for mobile devices, ensuring that users can easily order food on the go.Overall, building this Swiggy clone website was a valuable learning experience that helped me to develop my skills in React, Redux, and state management.</p>
