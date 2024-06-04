@@ -17,7 +17,10 @@ const Header = () => {
             <div style={{display:'flex',alignItems:'center'}}>
             {/* <a href="https://drive.google.com/file/d/1cyDcz_pBaxrEde8BlNK4yKHz8O9BOYhS/view?usp=sharing"><button className="button header-resume-btn">Resume</button></a> */}
             {/* <a href="https://drive.google.com/file/d/1ixaGMeR8MPKK9yDl3FeJnzbPjJRw6pQY/view" target="_blank" ><button className="button header-resume-btn">Resume</button></a> */}
-            <a href=" https://drive.google.com/file/d/1d91pKDG3M2kbuK7Y5zq7_TWoNQTAr6wv/view?usp=sharing" target="_blank" ><button className="button header-resume-btn">Resume</button></a>
+            {/* <a href=" https://drive.google.com/file/d/1d91pKDG3M2kbuK7Y5zq7_TWoNQTAr6wv/view?usp=sharing" target="_blank" ><button className="button header-resume-btn">Resume</button></a> */}
+            <a href=" https://drive.google.com/file/d/1j7o-kUoc1b70IIjInD0dUp61mVjhbhoB/view?usp=sharing" target="_blank" ><button className="button header-resume-btn">Resume</button></a>
+
+            
 
            
             <DarkLight/>
